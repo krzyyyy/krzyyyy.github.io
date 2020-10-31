@@ -55,9 +55,7 @@
       "colorLink": "#149dcc",
       "underlineLink": false,
       "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
-    },
-    "publishType": "local",
-    "publishPath": "@PROJECT_PATH@"
+    }
   },
   "pages": {
     "index.html": {
